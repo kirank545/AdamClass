@@ -1,3 +1,5 @@
 Hello,
 How are you?
 How is the git Training?
+
+I am adding the new linw to 3rd file.
