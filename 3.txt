@@ -2,4 +2,8 @@ Hello,
 How are you?
 How is the git Training?
 
+Space added here with enter keyword
+
 I am adding the new linw to 3rd file.
+
+I am doing the modification in the 3.txt file of new01 test branch
