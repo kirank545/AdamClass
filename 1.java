@@ -1,5 +1,1 @@
-Line 1
-
-Hello world.How are you?
-
-How can you remember the giot commands
+Adding Idea 1 in 1.java file
